@@ -65,3 +65,13 @@ The underlying simulation is built using a C# multicore data-parallel engine opt
 ### Compilation
 Open the project in Visual Studio 2022, target `.NET 6.0` or higher, paste the codebase from `Program.cs` and run in **Release** configuration for maximum performance.
  (https://zenodo.org/records/21998920)
+
+ ## Open Patent Pledge (Elon Musk Paradigm)
+As an independent researcher dedicated to clean energy development, I believe that climate change and global energy demands require collaboration, not patent litigation. 
+
+Therefore, **I pledge that I will not initiate patent infringement lawsuits against any company or research group that uses, manufactures, or develops the PMER-T passive RF-recycling technology in good faith for peaceful fusion energy deployment.**
+
+### Legal Safeguards:
+1. **Defensive Patent Status:** This technology is protected under Belarusian Patent Application No. `a20260191` (Priority date: August 18, 2026). This patent functions strictly as a *defensive publication* to prevent commercial corporations from monopolizing or blocking the open-source distribution of this passive electromagnetic feedback mechanism.
+2. **Official Open License:** An official Open License declaration has been filed with the National Center of Intellectual Property (NCIP) under Article 29 of the Patent Law, legally offering non-exclusive usage rights to any interested entity worldwide.
+
