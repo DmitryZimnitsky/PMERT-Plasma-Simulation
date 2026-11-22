@@ -75,3 +75,8 @@ Therefore, **I pledge that I will not initiate patent infringement lawsuits agai
 1. **Defensive Patent Status:** This technology is protected under Belarusian Patent Application No. `a20260191` (Priority date: August 18, 2026). This patent functions strictly as a *defensive publication* to prevent commercial corporations from monopolizing or blocking the open-source distribution of this passive electromagnetic feedback mechanism.
 2. **Official Open License:** An official Open License declaration has been filed with the National Center of Intellectual Property (NCIP) under Article 29 of the Patent Law, legally offering non-exclusive usage rights to any interested entity worldwide.
 
+Update from November 22, 2026. Revised MHD & Thermodynamic Energy Balance.
+The 1D transient C# solver has been upgraded to explicitly account for 3D magnetohydrodynamic (MHD) ballooning/kink dissipation, runaway electron limits, and cascading thermal recuperation within the blanket. Under strict energy conservation laws in a compact plasma volume:
+The pure thermonuclear fusion gain stabilizes at Qfusion–0.34 (Pfus = 10.3-11.1 MW, generating 8.5 MW of continuous 14.1 MeV fast neutrons).
+Combined with passive microwave recycling and direct solid-state/thermal blanket recuperation of wall losses, the system achieves an overall energy break-even ratio of Qnet= 0.96–1.0 against grid input (Pgrid= 33.5 MW).
+
